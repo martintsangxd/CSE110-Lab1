@@ -4,9 +4,9 @@
 
 >Trying out quoting text
 
-'Git clone' is a basic git command
+`Git clone` is a basic git command
 
-My [GitHub Pages](https://github.com/martintsangxd)
+My [GitHub Page](https://github.com/martintsangxd)
 
 Section Link to [My Hobbies](https://github.com/martintsangxd/CSE110-Lab1/blob/main/index.md#my-hobbies)
 
