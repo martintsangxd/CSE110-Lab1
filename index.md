@@ -4,7 +4,7 @@
 
 >Trying out quoting text
 
->'Git clone' is a basic git command
+'Git clone' is a basic git command
 
 My [GitHub Pages](https://github.com/martintsangxd)
 
